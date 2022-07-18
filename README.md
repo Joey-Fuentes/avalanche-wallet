@@ -11,7 +11,7 @@ This is the frontend Vue.js application for the Avalanche (AVAX) Wallet.
 
 ## Installation
 
-1. Clone the repo `git clone https://github.com/ava-labs/avalanche-wallet.git`
+1. Clone the repo `git clone https://github.com/Joey-Fuentes/avalanche-wallet.git`
 2. Go to root of the project `cd avalanche-wallet`
 3. Install javascript dependencies with `yarn install`.
 
